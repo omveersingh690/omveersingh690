@@ -17,7 +17,7 @@
 ```java
 public class OmVeerSingh {
     
-    String name     = "Om Veer Singh";
+    String name     = "OmVeer Singh";
     String username = "omveersingh690";
     String location = "Greater Noida, Uttar Pradesh, India 🇮🇳";
     
