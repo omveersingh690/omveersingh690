@@ -7,10 +7,10 @@
 
 <p align="center">
   <a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="YOUR_LEETCODE_URL"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"></a>
-  <a href="YOUR_CODOLIO_URL"><img src="https://img.shields.io/badge/Codolio-4B5563?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codolio"></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/omveer-yadav-b6a925265/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://leetcode.com/u/omveer234/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"></a>
+  <a href="https://codolio.com/profile/OmveerSingh"><img src="https://img.shields.io/badge/Codolio-4B5563?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codolio"></a>
+  <a href="ovyadav692@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
 ---
@@ -65,8 +65,8 @@
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
       </p>
       <p>
-        <a href="https://github.com/YOUR_GITHUB_USERNAME/SKIN_CANCER_REPO_NAME">📂 Code</a> ·
-        <a href="SKIN_CANCER_LIVE_DEMO_URL">🌐 Live Demo</a>
+        <a href="https://github.com/omveersingh690/Skin-Cancer-Detection-1/tree/main/Skin%20cancer%20detection/Skin-Cancer-Detection-main/Skin%20Cancer%20Detection/Skin-Cancer-Detection-main">📂 Code</a> ·
+        <a href="https://health-guard-ai-copy-f57da71a.base44.app/SkinAnalysis">🌐 Live Demo</a>
       </p>
     </td>
     <td width="50%" valign="top">
@@ -79,8 +79,8 @@
         <img src="https://img.shields.io/badge/AI%2FML-6E40C9?style=flat-square" />
       </p>
       <p>
-        <a href="https://github.com/YOUR_GITHUB_USERNAME/STYLESENSE_REPO_NAME">📂 Code</a> ·
-        <a href="STYLESENSE_LIVE_DEMO_URL">🌐 Live Demo</a>
+        <a href="https://github.com/omveersingh690/StyleSense-Generative-AI-Powered-Fashion-Recommendation-System.git">📂 Code</a> ·
+        <a href="https://style-sense-generative-ai-powered-fashion-recommenda-h7nm5xsei.vercel.app/">🌐 Live Demo</a>
       </p>
     </td>
   </tr>
@@ -94,22 +94,12 @@
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
       </p>
       <p>
-        <a href="https://github.com/YOUR_GITHUB_USERNAME/UNIVERSITY_MANAGEMENT_REPO_NAME">📂 Code</a> ·
+        <a href="https://github.com/omveersingh690/University-Management-System/tree/master/src/university/management/system">📂 Code</a> ·
         <i>Desktop/console application</i>
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>🤝 OrphanMeet</h3>
-      <p>Web platform for connecting and managing orphanage-related information.</p>
-      <p>
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-      </p>
-      <p>
-        <a href="https://github.com/YOUR_GITHUB_USERNAME/ORPHANMEET_REPO_NAME">📂 Code</a> ·
-        <a href="ORPHANMEET_LIVE_DEMO_URL">🌐 Live Demo</a>
-      </p>
-    </td>
+     
   </tr>
 </table>
 
@@ -118,12 +108,12 @@
 ## 🧠 Data Structures & Algorithms
 
 <p>
-  <a href="YOUR_LEETCODE_URL"><img src="https://img.shields.io/badge/LeetCode-400%2B%20Problems%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode 400+" /></a>
+  <a href="https://leetcode.com/u/omveer234/"><img src="https://img.shields.io/badge/LeetCode-400%2B%20Problems%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode 450+" /></a>
   <img src="https://img.shields.io/badge/Language-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
 </p>
 
 - Solve problems primarily in **Java**, with focus on writing clean, optimal solutions
-- Practice regularly on LeetCode; progress is also tracked on [Codolio](YOUR_CODOLIO_URL)
+- Practice regularly on LeetCode; progress is also tracked on [Codolio](https://codolio.com/profile/OmveerSingh)
 
 ---
 
@@ -149,19 +139,19 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark&hide_border=true&count_private=true">
-    <img height="170" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default&hide_border=true&count_private=true">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=omveersingh690&show_icons=true&theme=github_dark&hide_border=true&count_private=true">
+    <img height="170" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=omveersingh690&show_icons=true&theme=default&hide_border=true&count_private=true">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=github_dark&hide_border=true">
-    <img height="170" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=default&hide_border=true">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=omveersingh690&layout=compact&theme=github_dark&hide_border=true">
+    <img height="170" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omveersingh690&layout=compact&theme=default&hide_border=true">
   </picture>
 </p>
 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=github-dark-blue&hide_border=true">
-    <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=default&hide_border=true">
+    <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=omveersingh690&theme=default&hide_border=true">
   </picture>
 </p>
 
@@ -169,8 +159,8 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=github-dark&hide_border=true&area=true">
-    <img alt="Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=github-compact&hide_border=true&area=true">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=omveersingh690&theme=github-dark&hide_border=true&area=true">
+    <img alt="Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=omveersingh690&theme=github-compact&hide_border=true&area=true">
   </picture>
 </p>
 
@@ -180,19 +170,19 @@
 
 | Platform | Profile |
 |---|---|
-| <img src="https://skillicons.dev/icons?i=github" width="18" /> **GitHub** | [YOUR_GITHUB_USERNAME](https://github.com/YOUR_GITHUB_USERNAME) |
-| <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" height="18" /> **LeetCode** | [View Profile](YOUR_LEETCODE_URL) |
-| 📈 **Codolio** | [View Profile](YOUR_CODOLIO_URL) |
+| <img src="https://skillicons.dev/icons?i=github" width="18" /> **GitHub** | [omveersingh690](https://github.com/omveersingh690) |
+| <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" height="18" /> **LeetCode** | [View Profile](https://leetcode.com/u/omveer234/) |
+| 📈 **Codolio** | [View Profile](https://leetcode.com/u/omveer234/) |
 
 ---
 
 ## 🤝 Connect With Me
 
 <p>
-  <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="YOUR_LEETCODE_URL"><img src="https://img.shields.io/badge/LeetCode-Follow-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"></a>
-  <a href="YOUR_CODOLIO_URL"><img src="https://img.shields.io/badge/Codolio-View-4B5563?style=for-the-badge" alt="Codolio"></a>
+  <a href="https://www.linkedin.com/in/omveer-yadav-b6a925265/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:ovyadav692@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://leetcode.com/u/omveer234/"><img src="https://img.shields.io/badge/LeetCode-Follow-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"></a>
+  <a href="https://codolio.com/profile/OmveerSingh"><img src="https://img.shields.io/badge/Codolio-View-4B5563?style=for-the-badge" alt="Codolio"></a>
 </p>
 
 <p align="center">
