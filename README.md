@@ -155,17 +155,6 @@
   </picture>
 </p>
 
-### 📈 Contribution Activity
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=omveersingh690&theme=github-dark&hide_border=true&area=true">
-    <img alt="Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=omveersingh690&theme=github-compact&hide_border=true&area=true">
-  </picture>
-</p>
-
----
-
 ## 🏆 Coding Profiles
 
 | Platform | Profile |
