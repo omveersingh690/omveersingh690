@@ -133,28 +133,6 @@
   <img src="https://img.shields.io/badge/Generative%20AI-6E40C9?style=flat-square" />
 </p>
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=omveersingh690&show_icons=true&theme=github_dark&hide_border=true&count_private=true">
-    <img height="170" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=omveersingh690&show_icons=true&theme=default&hide_border=true&count_private=true">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=omveersingh690&layout=compact&theme=github_dark&hide_border=true">
-    <img height="170" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omveersingh690&layout=compact&theme=default&hide_border=true">
-  </picture>
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=github-dark-blue&hide_border=true">
-    <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=omveersingh690&theme=default&hide_border=true">
-  </picture>
-</p>
-
 ## 🏆 Coding Profiles
 
 | Platform | Profile |
